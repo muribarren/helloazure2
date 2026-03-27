@@ -1,3 +1,3 @@
 <?php
 
-echo "Estoy es la defincitiva prueba!";
+echo "Esta es la prueba definitiva!";
